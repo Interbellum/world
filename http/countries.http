@@ -1,0 +1,15 @@
+### All countries
+GET https://restcountries.com/v3.1/all
+Accept: application/json
+
+### Country by name
+GET https://restcountries.com/v3.1/name/Russia
+Accept: application/json
+
+### Country by code
+GET https://restcountries.com/v3.1/alpha/rus
+Accept: application/json
+
+### Countries
+GET https://raw.githubusercontent.com/mledoze/countries/master/countries.json
+Accept: application/json
